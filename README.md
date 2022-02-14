@@ -1,6 +1,6 @@
 # Sonic Robot SmartCar
 
-![Project Image](F:\4th Year\Development of Embedded Systems\New Codes\All_IN\SmartCar_Core_20210127\Sonic.jpg)
+![Project Image](Sonic.jpg)
 
 > This is a ReadMe template to help save you time and effort.
 ---
