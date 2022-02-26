@@ -16,7 +16,7 @@ You're sections headers will be used to reference location of destination.
 
 Sonic is a Multifunction Robot Smart Car. 
 
-### Car Funcions
+### Car Functions
 
 1- Infrared Remote Control
 2- Obstacle avoidance.
